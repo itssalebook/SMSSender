@@ -1,0 +1,15 @@
+C:\Users\muham\Downloads\SMSSender-main\SMSSender\bin\Debug\SMS Sender.exe.config
+C:\Users\muham\Downloads\SMSSender-main\SMSSender\bin\Debug\SMS Sender.exe
+C:\Users\muham\Downloads\SMSSender-main\SMSSender\bin\Debug\SMS Sender.pdb
+C:\Users\muham\Downloads\SMSSender-main\SMSSender\bin\Debug\GSMCommServer.dll
+C:\Users\muham\Downloads\SMSSender-main\SMSSender\bin\Debug\GSMCommunication.dll
+C:\Users\muham\Downloads\SMSSender-main\SMSSender\bin\Debug\PDUConverter.dll
+C:\Users\muham\Downloads\SMSSender-main\SMSSender\obj\Debug\SMSSender.MainForm.resources
+C:\Users\muham\Downloads\SMSSender-main\SMSSender\obj\Debug\SMSSender.Manual_SMS.resources
+C:\Users\muham\Downloads\SMSSender-main\SMSSender\obj\Debug\SMSSender.SMS.resources
+C:\Users\muham\Downloads\SMSSender-main\SMSSender\obj\Debug\SMSSender.Properties.Resources.resources
+C:\Users\muham\Downloads\SMSSender-main\SMSSender\obj\Debug\SMSSender.csproj.GenerateResource.cache
+C:\Users\muham\Downloads\SMSSender-main\SMSSender\obj\Debug\SMSSender.csproj.CoreCompileInputs.cache
+C:\Users\muham\Downloads\SMSSender-main\SMSSender\obj\Debug\SMSSender.csproj.CopyComplete
+C:\Users\muham\Downloads\SMSSender-main\SMSSender\obj\Debug\SMS Sender.exe
+C:\Users\muham\Downloads\SMSSender-main\SMSSender\obj\Debug\SMS Sender.pdb
